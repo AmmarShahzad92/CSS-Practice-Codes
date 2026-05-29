@@ -1,0 +1,20 @@
+body{
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+p{
+    background-color: rgb(40, 211, 140);
+    margin: 10px 30px;
+    padding: 0;
+}
+
+.opposite{
+    background-color: rgb(211, 40, 140);
+    color: rgb(255, 255, 255);
+    padding: 4rem;
+    display: inline-block;
+    height : 100%;
+
+}
