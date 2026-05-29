@@ -1,0 +1,23 @@
+body{
+    padding : 10%;
+  /*  font-size: 16px;*/
+    text-align: center;
+    color:yellowgreen;
+    background-color: beige;
+}
+input, button{
+    font: inherit;
+}
+
+p{
+    text-decoration: double;
+    text-transform: capitalize;
+    text-indent: 16px;
+    text-align: justify;
+    line-height: 18px;
+    word-spacing: 2px;
+    font-weight: lighter;
+    font-style: oblique;
+    font-family: monospace, serif;
+    color: blue;
+}
