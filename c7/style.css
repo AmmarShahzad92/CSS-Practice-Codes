@@ -1,0 +1,31 @@
+body {
+    padding: 2% 5%;
+    color: rgb(116, 8, 110);
+    font-size: x-large;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h1{
+    color: rgb(189, 143, 29);
+    text-align: left;
+    font-size: xx-large;
+}
+
+ol {
+    list-style-type: square;
+    list-style-position: inside;
+    list-style-image: url('../images/untitled.png') upper-roman no-repeat;
+}
+
+ul li:nth-child(odd){
+    color: rgb(43, 153, 226);
+
+}
+
+ul li::marker{
+    margin-left: 2rem;
+    border: 15rem solid;
+    color: red;
+}
