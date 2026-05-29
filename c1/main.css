@@ -1,0 +1,35 @@
+body{
+    font-size: "22px";
+    background: linear-gradient(to right, #33ccff 0%, #cc66ff 100%);
+}
+
+p {/*element selector  like here use p for element selector*/
+    color: blue;
+}
+
+.red{ /*applying style to class and use . to represent class */
+    color: red;
+}
+
+#third { /*applying style to class and use # to represent id */
+ color: rgb(68, 9, 37);
+ font-weight: bold;
+ font-style: italic;
+}
+
+h1, articles { /*add miltiple elements, class, id */
+    color: chocolate;
+}
+
+p, #third, .red{
+    color: green;
+}
+
+button, input{
+    font: arial, sans-serif;
+    background-color: rgb(230, 212, 173);
+    color:brown;
+    font-weight: bold;
+    align-self: center;
+    font-size: x-large;
+}
