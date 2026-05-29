@@ -1,0 +1,12 @@
+body {
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(140, 160, 95);
+    color: #333;
+}
+
+P{
+    text-align: left;
+    padding: 1.5px;
+
+}
